@@ -30,11 +30,3 @@ I've been coding since 2016, focusing on low-level languages to interact with mi
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/miguel-fg"><img src="https://github-readme-stats.vercel.app/api?username=miguel-fg&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="miguel-fg's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/miguel-fg/cashflow-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-fg&repo=cashflow-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/miguel-fg/intelliquiz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-fg&repo=intelliquiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/miguel-fg/portfolio-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-fg&repo=portfolio-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/miguel-fg/braille-printer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-fg&repo=braille-printer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
