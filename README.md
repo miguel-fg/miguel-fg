@@ -9,8 +9,6 @@ I've been coding since 2016, focusing on low-level languages to interact with mi
 * 🌍  I'm based in Vancouver, BC.
 * 🖥️  See my portfolio at [miguel-fierro.com](http://miguel-fierro.com)
 * ✉️  You can contact me at [hello@miguel-fierro.com](mailto:hello@miguel-fierro.com)
-* 🚀  I'm currently working on [Intelliquiz!](https://github.com/miguel-fg/intelliquiz)
-* 🧠  I'm learning Nuxt 3
 * 🤝  I'm open to collaborating on cool stuff
 
 ### Skills
